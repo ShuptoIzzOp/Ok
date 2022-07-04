@@ -1,0 +1,9 @@
+{
+	"ip":"game7.falixnodes.net",
+	"port": 38578,
+	"name": "Server Guard",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (randi2020) (randi2020)",
+	"login-cmd":"/login (randi2020)"
+}
